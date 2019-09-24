@@ -8,6 +8,10 @@ h1 {
   color: inherit;
   text-align: center;
 }
+p{
+  color: inherit;
+  font-size: 12px;
+}
 
 #startbutton {
    background-color: #0085be;
