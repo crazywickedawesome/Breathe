@@ -1,0 +1,43 @@
+body {
+  background-color: #01081f;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+h1 {
+  color: inherit;
+  text-align: center;
+}
+
+#startbutton {
+   background-color: #0085be;
+    color: #fff;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 15%;
+    margin: auto;
+    width: 25%;
+   -webkit-transition-duration: 0.4s;
+   transition-duration: 0.4s;
+}
+
+#startbutton:hover {
+  background-color: inherit;
+  color: #0085be;
+}
+
+.nextbox {
+  display: block;
+  color: inherit;
+  }
+.guide{
+  display: block;
+  text-align: center;
+}
+
+.logo{
+  margin: 0 auto;
+}
